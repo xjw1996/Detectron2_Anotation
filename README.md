@@ -1,7 +1,8 @@
 # Detectron2_Anotation
 - In the first version,I'm use sementic segmentation and instance segementation to distinguish where is the binarization of background and foreground.
  ![Screenshot from 2021-06-22 02-31-10](https://user-images.githubusercontent.com/50350039/123572992-134bba00-d808-11eb-9da6-48e067960061.png)
- ![Screenshot from 2021-06-22 02-31-10](https://user-images.githubusercontent.com/50350039/123573006-19419b00-d808-11eb-9ee9-0ef17a764547.png)
+ ![Screenshot from 2021-06-22 02-32-23](https://user-images.githubusercontent.com/50350039/123573737-70943b00-d809-11eb-8c20-a1aea993be6f.png)
+
  
 - The part I want is the area where the hand holds the object,Next, remove the noise.
 
